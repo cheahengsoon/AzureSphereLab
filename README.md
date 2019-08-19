@@ -1,4 +1,4 @@
-# AzureSphereLab
+# Azure Sphere Lab
 Azure Sphere Lab from https://www.hackster.io/workshops/azure-sphere-course
 
 For this course you will need to have a basic understanding of the C language in order to successfully complete the labs.
